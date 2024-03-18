@@ -20,9 +20,11 @@ Dive into the captivating world of visual exploration with the "Image Search Eng
 ## How to Use:
 
 1. Clone or download the "Image Search Engine" repository to your local machine.
-2. Open the HTML file in your preferred web browser to launch the image search engine.
-3. Enter keywords or phrases into the search bar to discover relevant images from the Unsplash library.
-4. Scroll through the search results to explore a diverse range of photographs and discover visual inspiration.
-5. Click on individual images to view full-size previews and detailed information, and enjoy a deeper dive into the world of photography.
+2. Create a free account on [Unsplash.com](https://unsplash.com/developers), and create a free API key through application.
+3. Put your API key in the script. 
+4. Open the HTML file in your preferred web browser to launch the image search engine.
+5. Enter keywords or phrases into the search bar to discover relevant images from the Unsplash library.
+6. Scroll through the search results to explore a diverse range of photographs and discover visual inspiration.
+7. Click on individual images to view full-size previews and detailed information, and enjoy a deeper dive into the world of photography.
 
 Whether you're an artist, designer, researcher, or simply a lover of beautiful imagery, the "Image Search Engine" project invites you to embark on a visual journey like no other. With its seamless integration of the Unsplash API, dynamic search functionality, and customizable options, this image search engine empowers users to explore, discover, and connect with the world through the lens of photography.
