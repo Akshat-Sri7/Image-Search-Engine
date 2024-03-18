@@ -1,4 +1,4 @@
-const accessKey = "rkJP4nlWjUixd20mb2-RbQDpOLyVzGqgu_JyOX7hc9M"
+const accessKey = "PUT YOUR API KEY HERE"
 
 const searchForm = document.getElementById("search-form");
 const searchBox = document.getElementById("search-box");
